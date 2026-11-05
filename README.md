@@ -1,2 +1,1 @@
-# fahmi_ltik_2
-TugasLtik2
+print('hello world')
